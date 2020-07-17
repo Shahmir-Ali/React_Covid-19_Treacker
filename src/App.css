@@ -1,0 +1,29 @@
+.box{
+  height: 400px;
+  background-color: aqua;
+}
+
+.daylight{
+  background-color: yellow;
+}
+.bottom{
+  border-bottom: 10px solid rgba(0, 255, 0, 0.5);
+  color: gree;
+}
+.body{
+  background-image: url(https://progressive.org/downloads/14013/download/1200px-COVID-19_Outbreak_Cases_in_Greece.svg.png?cb=6f2ad7f927fdb4073b08331a994980fd&w=1200);
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+        
+       
+}
+
+.chart-container {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  /* background-color: rgb(83, 83, 77); */
+  
+
+}
